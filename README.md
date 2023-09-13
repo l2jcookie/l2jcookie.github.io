@@ -1,1 +1,1 @@
-# l2jcookie.github.io
+# l2jcookie
